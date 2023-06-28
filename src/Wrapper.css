@@ -1,0 +1,11 @@
+.wrapper {
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  border-radius: 10px;
+  background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/moon.4195_0.jpg");
+  background-size: 180%; /* or "contain" depending on what you want */
+  background-position: center center;
+  background-repeat: no-repeat;
+  box-shadow: 0px 0px 20px 10px rgb(255, 255, 255);
+}
